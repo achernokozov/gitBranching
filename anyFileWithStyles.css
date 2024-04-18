@@ -7,11 +7,6 @@ div {
     width: 50%;
     background-color: powderblue;
 }
-/* unvisited link */
-a:link {
-    color: red;
-    font-size: 20px;
-  }
   
   /* visited link */
   a:visited {
@@ -29,11 +24,11 @@ a:link {
     font-size: 20px;
   }
 
-/* body {
+ body {
     background-color: rgb(47, 206, 255);
   }
 h1 {
-    font-size: 50px; /* RGTHYJHR 
+    font-size: 50px; 
 }
 .testClass {
     color: brown;
@@ -44,4 +39,4 @@ p.testClass {
 }
 #google {
     font-family: Verdana, sans-serif;
-} */
+} 
