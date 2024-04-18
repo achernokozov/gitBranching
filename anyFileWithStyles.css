@@ -1,0 +1,47 @@
+p>b {
+    color: blue;
+}
+div {
+    border: solid 2px;
+    height: 200px;
+    width: 50%;
+    background-color: powderblue;
+}
+/* unvisited link */
+a:link {
+    color: red;
+    font-size: 20px;
+  }
+  
+  /* visited link */
+  a:visited {
+    color: green;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: hotpink;
+  }
+  
+  /* selected link */
+  a:active {
+    color: blue;
+    font-size: 20px;
+  }
+
+/* body {
+    background-color: rgb(47, 206, 255);
+  }
+h1 {
+    font-size: 50px; /* RGTHYJHR 
+}
+.testClass {
+    color: brown;
+    font-size: 50px;
+}
+p.testClass {
+    text-align: center;
+}
+#google {
+    font-family: Verdana, sans-serif;
+} */
